@@ -1,8 +1,8 @@
-Content of [Aries](https://www.aries-dtp.ac.uk/) and [Cefas](https://www.cefas.co.uk) Python Course 2023, organised through the [Collaborative Centre for the Sustainable use of the Seas](https://www.uea.ac.uk/ccsus/) 
+Content of [Aries](https://www.aries-dtp.ac.uk/) and [Cefas](https://www.cefas.co.uk) Python Course 2024, organised through the [Collaborative Centre for the Sustainable use of the Seas](https://www.uea.ac.uk/ccsus/) 
 
-[Course website](<https://ueapy.github.io/pythoncourse2023-website>)
+[Course website](<[https://ueapy.github.io/pythoncourse2023-website](https://github.com/ueapy/pythoncourse2024-website)>)
 
-**Please note that this repository and the course materials may not be finalised until Friday 2 June 2023.**
+**Please note that this repository and the course materials may not be finalised until Friday 21st June 2024.**
 
 Run on the cloud: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ueapy/pythoncourse2023-materials/main?urlpath=lab)
 
