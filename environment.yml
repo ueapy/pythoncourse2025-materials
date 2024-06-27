@@ -2,10 +2,10 @@ name: course2024
 channels:
    - conda-forge
 dependencies:
-   - python=3.9
    - ipython
    - jupyter
    - jupyterlab
+   - nb_conda_kernels
    - numpy
    - matplotlib
    - pandas
