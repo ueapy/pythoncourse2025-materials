@@ -17,3 +17,4 @@ dependencies:
    - seaborn
    - netcdf4
    - dask
+   - ffmpeg
