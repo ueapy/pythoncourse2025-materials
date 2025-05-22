@@ -1,6 +1,6 @@
 Content of [Aries](https://www.aries-dtp.ac.uk/) and [Cefas](https://www.cefas.co.uk) Python Course 2025, organised through the [Collaborative Centre for the Sustainable use of the Seas](https://www.uea.ac.uk/ccsus/) 
 
-[Course website](<[https://ueapy.github.io/pythoncourse2025-website](https://github.com/ueapy/pythoncourse2025-website)>)
+[Course website](https://ueapy.github.io/pythoncourse2025-website)
 
 **Please note that this repository and the course materials may not be finalised until Friday 30th May 2025, 9am**
 
