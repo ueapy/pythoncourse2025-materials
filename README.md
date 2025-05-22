@@ -1,10 +1,10 @@
-Content of [Aries](https://www.aries-dtp.ac.uk/) and [Cefas](https://www.cefas.co.uk) Python Course 2024, organised through the [Collaborative Centre for the Sustainable use of the Seas](https://www.uea.ac.uk/ccsus/) 
+Content of [Aries](https://www.aries-dtp.ac.uk/) and [Cefas](https://www.cefas.co.uk) Python Course 2025, organised through the [Collaborative Centre for the Sustainable use of the Seas](https://www.uea.ac.uk/ccsus/) 
 
-[Course website](<[https://ueapy.github.io/pythoncourse2024-website](https://github.com/ueapy/pythoncourse2024-website)>)
+[Course website](<[https://ueapy.github.io/pythoncourse2025-website](https://github.com/ueapy/pythoncourse2025-website)>)
 
-**Please note that this repository and the course materials may not be finalised until Friday 28th of June 2024, 9am**
+**Please note that this repository and the course materials may not be finalised until Friday 30th May 2025, 9am**
 
-Run on the cloud: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ueapy/pythoncourse2024-materials/main?urlpath=lab)
+Run on the cloud: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ueapy/pythoncourse2025-materials/main?urlpath=lab)
 
 [![Python 3.9](https://img.shields.io/badge/python-3.9-blue.svg)]()
 
